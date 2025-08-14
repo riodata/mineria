@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/riodata/mineria/blob/main/mineriafase1.ipynb)
+
 # Minería de Argumentación
 
 Modelo de minería de argumentación para exposiciones de estudiantes.
